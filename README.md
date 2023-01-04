@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Islombek</h1>
+
 <h3 align="center">17 IOS</h3>
 
 - 📫 How to reach me **islombek.pulatov@gmail.com**
