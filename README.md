@@ -1,5 +1,5 @@
 
-//<h3 align="center">17 IOS</h3>
+<h3 align="center">IOS</h3>
 
 - 📫 How to reach me **islombek.pulatov@gmail.com**
 
