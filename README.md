@@ -17,8 +17,7 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8957e5&vCenter=true&lines=iOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&color=5417F7&background=FF241B00&vCenter=true&width=435&lines=iOS+Developer+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganzy9&label=Profile%20views&color=0e75b6&style=flat" alt="morganzy9" /> </p>
 
