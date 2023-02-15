@@ -32,4 +32,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morganzy9&show_icons=true&theme=tokyonight&title_color=9929bd&text_color=9929bd&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="morganzy9" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=morganzy9&" alt="morganzy9" /></p>
