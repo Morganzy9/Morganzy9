@@ -20,8 +20,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8957e5&vCenter=true&lines=iOS+Developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morganzy9&label=Profile%20views&color=0e75b6&style=flat" alt="morganzy9" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morganzy9&label=Profile%20views&color=0e75b6&style=flat" alt="morganzy9" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
