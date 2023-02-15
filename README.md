@@ -18,11 +18,10 @@
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8957e5&vCenter=true&lines=iOS+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganzy9&label=Profile%20views&color=0e75b6&style=flat" alt="morganzy9" /> </p>
 
-- 🌱 I’m currently learning **UIKit,MVC,MVVM,VIPER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
