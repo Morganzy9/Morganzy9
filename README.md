@@ -1,6 +1,8 @@
 
 <h3 align="center">IOS</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8957e5&vCenter=true&lines=iOS+Developer)](https://git.io/typing-svg)
+
 - 📫 How to reach me **islombek.pulatov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
